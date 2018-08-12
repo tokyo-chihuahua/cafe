@@ -1,1 +1,1 @@
-# cafe
+# Tokyo dog-friendly cafe
