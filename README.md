@@ -2,4 +2,6 @@
 
 This is a place to collect **dog-friendly cafes** in [Tokyo](https://en.wikipedia.org/wiki/Tokyo) :dog:
 
-:dog::man::dog:
+
+Nice! :dog::man::dog:
+
